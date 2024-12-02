@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "195159901603",
+    "project_id": "khatwa-49223",
+    "storage_bucket": "khatwa-49223.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195159901603:android:13ce4e3363643347ee8616",
+        "android_client_info": {
+          "package_name": "com.Khatwa_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuCUIX5_suZZZZ2A6yR10mjOFyWYsZnp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195159901603:android:e4b7acb7d2883c23ee8616",
+        "android_client_info": {
+          "package_name": "com.example.Khatwa_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuCUIX5_suZZZZ2A6yR10mjOFyWYsZnp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195159901603:android:95d24ccf80c8a19aee8616",
+        "android_client_info": {
+          "package_name": "com.khatwa_driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuCUIX5_suZZZZ2A6yR10mjOFyWYsZnp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
